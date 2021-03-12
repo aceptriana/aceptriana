@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hello,Bro! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Acep Triana and I'm a fresh graduate computer and network engineering. I'm from Indonesia, living in Kuningan , Jawa Barat. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Acep Triana and I'm a fresh graduate computer and network engineering. I'm from Indonesia, living in Kuningan , Jawa Barat. You can find me on [![Telegram][1.2]][1].
 
 ## &#x270d; Blog & Writing
 
