@@ -1,4 +1,4 @@
-![](https://github.com/aceptriana/aceptriana/blob/master/media/header_.png)
+![](https://raw.githubusercontent.com/aceptriana/aceptriana/main/media/header_.png)
 
 ### Hi there, I'm Acep Triana 👋
 
