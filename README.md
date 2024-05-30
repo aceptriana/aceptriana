@@ -9,7 +9,7 @@ Saya seorang mahasiswa Sistem Informasi yang bersemangat dalam bidang hacking, j
 * 📚 Saat ini saya sedang mengejar gelar Sarjana Sistem Informasi.
 * 💻 Saya memiliki minat yang mendalam dalam bidang keamanan informasi, terutama dalam hacking dan praktik-praktik keamanan.
 * 🌐 Saya juga sangat tertarik dalam pengembangan jaringan komputer dan administrasi sistem Linux.
-* 🎓 Saya memiliki sertifikasi [RHCSA (Red Hat Certified System Administrator)](https://www.redhat.com/en/services/certification/rhcsa) yang menunjukkan kompetensi saya dalam administrasi sistem Red Hat.
+* 🎓 Saya memiliki sertifikasi [RHCSA (Red Hat Certified System Administrator)](https://rhtapps.redhat.com/verify?certId=230-276-131) yang menunjukkan kompetensi saya dalam administrasi sistem Red Hat.
 * 🚀 Saya juga menikmati kompetisi Capture The Flag (CTF) di mana saya bisa mengasah keterampilan keamanan siber saya secara praktis.
 
 ## Kontak
