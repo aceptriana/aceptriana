@@ -1,9 +1,9 @@
-![](https://raw.githubusercontent.com/aceptriana/aceptriana/main/media/header_.png)
+<img align='right' src='./media/wave.gif' width='200"'>
 
 # Halo, Saya Acep Triana! 👋
 
 Saya seorang mahasiswa Sistem Informasi yang bersemangat dalam bidang hacking, jaringan komputer, dan sistem operasi Linux. Saya percaya bahwa pemahaman yang kuat tentang keamanan dan jaringan merupakan kunci dalam era digital saat ini.
-<img align='right' src='./media/wave.gif' width='200"'>
+
 ## Tentang Saya
 
 * 📚 Saat ini saya sedang mengejar gelar Sarjana Sistem Informasi.
