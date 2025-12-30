@@ -12,9 +12,6 @@ Saya seorang mahasiswa Sistem Informasi yang bersemangat dalam bidang hacking, j
 * 🎓 Saya memiliki sertifikasi [RHCSA (Red Hat Certified System Administrator)](https://rhtapps.redhat.com/verify?certId=230-276-131) yang menunjukkan kompetensi saya dalam administrasi sistem Red Hat.
 * 🚀 Saya juga menikmati kompetisi Capture The Flag (CTF) di mana saya bisa mengasah keterampilan keamanan siber saya secara praktis.
 
-## Kontak
-
-Jika Anda tertarik untuk berkolaborasi atau hanya ingin berbicara, jangan ragu untuk menghubungi saya melalui [email](mailto:acep@demei.id) atau melalui akun saya di [LinkedIn](https://www.linkedin.com/in/aceptriana/).
 
 ## Proyek Terkini
 
