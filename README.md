@@ -2,24 +2,18 @@
 
 # Halo, Saya Acep Triana! 👋
 
-Saya seorang mahasiswa Sistem Informasi yang bersemangat dalam bidang hacking, jaringan komputer, dan sistem operasi Linux. Saya percaya bahwa pemahaman yang kuat tentang keamanan dan jaringan merupakan kunci dalam era digital saat ini.
-
-## Tentang Saya
-
-* 📚 Saat ini saya sedang mengejar gelar Sarjana Sistem Informasi.
-* 💻 Saya memiliki minat yang mendalam dalam bidang keamanan informasi, terutama dalam hacking dan praktik-praktik keamanan.
-* 🌐 Saya juga sangat tertarik dalam pengembangan jaringan komputer dan administrasi sistem Linux.
-* 🎓 Saya memiliki sertifikasi [RHCSA (Red Hat Certified System Administrator)](https://rhtapps.redhat.com/verify?certId=230-276-131) yang menunjukkan kompetensi saya dalam administrasi sistem Red Hat.
-* 🚀 Saya juga menikmati kompetisi Capture The Flag (CTF) di mana saya bisa mengasah keterampilan keamanan siber saya secara praktis.
+Saya seorang Sarjana Komputer (S.Kom) yang bersemangat dalam bidang Web3, smart contract, blockchain, dan trading otomatis. Saya memiliki minat kuat dalam pengembangan teknologi terdesentralisasi serta otomasi trading menggunakan algoritma dan Pine Script.
 
 
 ## Proyek Terkini
 
-Saya aktif dalam berbagai proyek terkait keamanan, jaringan, dan Linux. Jangan ragu untuk melihat repositori GitHub saya untuk melihat apa yang sedang saya kerjakan!
+Saya sedang fokus pada proyek-proyek terkait:
+* Pengembangan smart contract dan aplikasi blockchain.
+* Pembuatan trading bot MT5 dan analisis signal trading.
+* Integrasi algoritma trading otomatis menggunakan Pine Script.
+* Eksperimen dengan teknologi Web3 dan sistem desentralisasi.
 
-Terima kasih telah mengunjungi profil GitHub saya. Mari kita terhubung dan berkolaborasi untuk menciptakan sesuatu yang hebat!
-
-
+Silakan cek repositori GitHub saya untuk melihat proyek terbaru saya. Mari kita terhubung dan kolaborasi untuk menciptakan inovasi teknologi yang menarik!
 <br/>
 
 
