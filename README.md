@@ -22,134 +22,57 @@ I'm a certified **RHCSA** (Red Hat Certified System Administrator) and **Full-St
 
 ---
 
-<h4 class="text-primary font-semibold tracking-wider text-sm uppercase mb-2">Tech Stack</h4>
-<div class="overflow-hidden w-full relative before:absolute before:left-0 before:top-0 before:z-10 before:h-full before:w-16 before:bg-gradient-to-r before:from-background before:to-transparent after:absolute after:right-0 after:top-0 after:z-10 after:h-full after:w-16 after:bg-gradient-to-l after:from-background after:to-transparent">
-<div class="flex items-center animate-[marquee_45s_linear_infinite] hover:[animation-play-state:paused] w-max py-4">
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Web3.js">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web3js/web3js-plain.svg" alt="Web3.js" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="AWS">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Arch Linux">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Bash">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Bootstrap">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Android Studio">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Cloudflare">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="CodeIgniter">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Composer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="Composer" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Fedora">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="Fedora" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="FileZilla">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Proxmox">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-plain-wordmark.svg" alt="Proxmox" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Flask">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Flutter">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300 filter invert opacity-90 hover:opacity-100">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Grafana">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="JSON">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Kali Linux">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Linux Mint">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="Linux Mint" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="NPM">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="PostgreSQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Prometheus">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="PyTorch">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Red Hat">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="Red Hat" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Ubuntu">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Three.js">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Vercel">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300 filter invert opacity-90 hover:opacity-100">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Vite.js">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite.js" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="VS Code">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Web3.js">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web3js/web3js-plain.svg" alt="Web3.js" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="AWS">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Arch Linux">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Bash">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Bootstrap">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Android Studio">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Cloudflare">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="CodeIgniter">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Composer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="Composer" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="Fedora">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="Fedora" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-<div class="flex items-center justify-center min-w-[60px] mx-4 md:mx-6 transition-transform hover:scale-110 cursor-pointer" title="FileZilla">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="48" height="48" class="w-10 h-10 md:w-12 md:h-12 transition-all duration-300">
-</div>
-</div>
-</div>
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- System / OS / Ops -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  
+  <br />
+
+  <!-- Cloud / Infra / DB -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  
+  <br />
+  
+  <!-- Frontend / Backend / Frameworks -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  
+  <br />
+
+  <!-- Tools / Others -->
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+  <img src="https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite.js" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" alt="FileZilla" />
+</p>
 
 ---
 
