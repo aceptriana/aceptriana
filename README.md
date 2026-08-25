@@ -42,7 +42,7 @@ I'm a certified RHCSA (Red Hat Certified System Administrator) and Full-Stack De
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aceptriana&theme=radical&hide_border=true&background=0D1117" alt="Acep's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aceptriana&theme=radical&hide_border=true&background=0D1117" alt="Acep's GitHub Streak" />
 </p>
 
 <p align="center">
