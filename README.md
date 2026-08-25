@@ -25,7 +25,6 @@ I'm a certified **RHCSA** (Red Hat Certified System Administrator) and **Full-St
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- System / OS / Ops -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
@@ -35,20 +34,12 @@ I'm a certified **RHCSA** (Red Hat Certified System Administrator) and **Full-St
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-  
-  <br />
-
-  <!-- Cloud / Infra / DB -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  
-  <br />
-  
-  <!-- Frontend / Backend / Frameworks -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -59,10 +50,6 @@ I'm a certified **RHCSA** (Red Hat Certified System Administrator) and **Full-St
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  
-  <br />
-
-  <!-- Tools / Others -->
   <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -74,16 +61,3 @@ I'm a certified **RHCSA** (Red Hat Certified System Administrator) and **Full-St
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" alt="FileZilla" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-[![Acep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aceptriana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aceptriana)
-<br/>
-[![Acep's GitHub Streak](https://streak-stats.demolab.com/?user=aceptriana&theme=radical&hide_border=true&background=0D1117)](https://github.com/aceptriana)
-<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aceptriana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aceptriana)
-
-</div>
