@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="media/home.webp" alt="Acep Triana Header" width="100%" style="border-radius: 15px;" />
+  <img src="media/home.webp" alt="Acep Triana Header" width="500" style="border-radius: 15px;" />
   <br />
   <br />
   <h1>Hi there 👋, I'm Acep Triana</h1>
@@ -43,10 +43,14 @@ I'm a certified **RHCSA** (Red Hat Certified System Administrator) and **Full-St
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aceptriana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Acep's GitHub Stats" />
-  <br />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=aceptriana&theme=radical&hide_border=true&background=0D1117" alt="Acep's GitHub Streak" />
-  <br />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceptriana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+</p>
