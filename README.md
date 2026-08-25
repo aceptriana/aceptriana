@@ -3,7 +3,7 @@
   <br />
   <br />
   <h1>Hi there 👋, I'm Acep Triana</h1>
-  <h3>System Administrator (RHCSA) | Full-Stack Developer | Web3 Enthusiast</h3>
+  <h3>Full-Stack Developer | Web3 Enthusiast | Smart Contract Developer</h3>
   
   <a href="https://www.aceptriana.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
