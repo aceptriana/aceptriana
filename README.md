@@ -1,4 +1,4 @@
-<img align='right' src='./media/wave.gif' width='200"'>
+[<img align='right' src='./media/wave.gif' width='200"'>
 
 # Halo, Saya Acep Triana! 👋
 
@@ -19,3 +19,4 @@ Silakan cek repositori GitHub saya untuk melihat proyek terbaru saya. Mari kita 
 
 
 
+](https://github.com/aceptriana/aceptriana/)
