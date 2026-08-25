@@ -1,22 +1,50 @@
-[<img align='right' src='./media/wave.gif' width='200"'>
+<h1 align="center">Hi there 👋, I'm Acep Triana</h1>
+<h3 align="center">System Administrator (RHCSA) | Full-Stack Developer | Web3 Enthusiast</h3>
 
-# Halo, Saya Acep Triana! 👋
+<p align="center">
+  <a href="https://www.aceptriana.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
 
-Saya seorang Sarjana Komputer (S.Kom) yang bersemangat dalam bidang Web3, smart contract, blockchain, dan trading otomatis. Saya memiliki minat kuat dalam pengembangan teknologi terdesentralisasi serta otomasi trading menggunakan algoritma dan Pine Script.
+I'm a certified RHCSA (Red Hat Certified System Administrator) and Full-Stack Developer with a strong focus on Web3, DApps, Linux server administration, and modern web technologies. 
 
+- 🔭 I’m currently building modern IT solutions and decentralized applications.
+- 🌱 I’m currently learning more about Smart Contracts and advanced Cloud Infrastructure.
+- 💬 Ask me about **Linux, Server Administration, Web Development, and Web3**.
+- 📫 How to reach me: Check out my portfolio [www.aceptriana.my.id](https://www.aceptriana.my.id).
 
-## Proyek Terkini
+---
 
-Saya sedang fokus pada proyek-proyek terkait:
-* Pengembangan smart contract dan aplikasi blockchain.
-* Pembuatan trading bot MT5 dan analisis signal trading.
-* Integrasi algoritma trading otomatis menggunakan Pine Script.
-* Eksperimen dengan teknologi Web3 dan sistem desentralisasi.
+### 🛠️ Tech Stack & Tools
 
-Silakan cek repositori GitHub saya untuk melihat proyek terbaru saya. Mari kita terhubung dan kolaborasi untuk menciptakan inovasi teknologi yang menarik!
-<br/>
+<p align="left">
+  <!-- System / Ops -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  
+  <!-- Web3 -->
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
+</p>
 
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aceptriana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Acep's GitHub Stats" />
+</p>
 
-](https://github.com/aceptriana/aceptriana/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aceptriana&theme=radical&hide_border=true&background=0D1117" alt="Acep's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceptriana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
